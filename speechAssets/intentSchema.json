@@ -1,0 +1,58 @@
+{
+	"intents": [
+		{
+			"intent": "PriceIntent",
+			"slots": [
+				{
+					"name": "Item",
+					"type": "LIST_OF_ITEMS"
+				}
+			]
+		},
+		{
+			"intent": "LocationIntent",
+			"slots": [
+				{
+					"name": "Item",
+					"type": "LIST_OF_ITEMS"
+				}
+			]
+		},
+		{
+			"intent": "ShadowIntent",
+			"slots": [
+				{
+					"name": "Item",
+					"type": "LIST_OF_ITEMS"
+				}
+			]
+		},
+		{
+			"intent": "TimeIntent",
+			"slots": [
+				{
+					"name": "Item",
+					"type": "LIST_OF_ITEMS"
+				}
+			]
+		},
+		{
+			"intent": "InfoIntent",
+			"slots": [
+				{
+					"name": "Item",
+					"type": "LIST_OF_ITEMS"
+				}
+			]
+		},
+		{
+			"intent": "AMAZON.HelpIntent"
+		},
+		{
+			"intent": "AMAZON.StopIntent"
+		},
+		{
+			"intent": "AMAZON.CancelIntent"
+		}
+	]
+}

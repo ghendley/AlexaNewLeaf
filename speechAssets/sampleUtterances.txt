@@ -1,0 +1,51 @@
+PriceIntent Price of {Item}
+PriceIntent How much is {Item} worth
+PriceIntent How much does {Item} sell for
+PriceIntent Value of {Item}
+PriceIntent Price of a {Item}
+PriceIntent Price of an {Item}
+PriceIntent How much is a {Item} worth
+PriceIntent How much is an {Item} worth
+PriceIntent How much does a {Item} sell for
+PriceIntent How much does an {Item} sell for
+PriceIntent Value of a {Item}
+PriceIntent Value of an {Item}
+LocationIntent Location of {Item}
+LocationIntent Location of a {Item}
+LocationIntent Location of an {Item}
+LocationIntent Where is {Item}
+LocationIntent Where is a {Item}
+LocationIntent Where is an {Item}
+LocationIntent Where are {Item}
+LocationIntent Where can I find {Item}
+LocationIntent Where can I find a {Item}
+LocationIntent Where can I find an {Item}
+ShadowIntent Shadow of {Item}
+ShadowIntent Shadow of a {Item}
+ShadowIntent Shadow of an {Item}
+ShadowIntent Shadow size of {Item}
+ShadowIntent Shadow size of a {Item}
+ShadowIntent Shadow size of an {Item}
+ShadowIntent How big is {Item} shadow
+ShadowIntent How big is a {Item} shadow
+ShadowIntent How big is an {Item} shadow
+TimeIntent When can I find {Item}
+TimeIntent When can I find a {Item}
+TimeIntent When can I find an {Item}
+TimeIntent When is {Item} out
+TimeIntent When are {Item} out
+TimeIntent When is {Item} available
+TimeIntent When are {Item} available
+TimeIntent When {Item} is available
+TimeIntent When {Item} are available
+TimeIntent {Item} availability
+InfoIntent {Item} info
+InfoIntent {Item} information
+InfoIntent Info about {Item}
+InfoIntent Info about the {Item}
+InfoIntent Info about a {Item}
+InfoIntent Info about an {Item}
+InfoIntent Tell me about {Item}
+InfoIntent Tell me about the {Item}
+InfoIntent Tell me about a {Item}
+InfoIntent Tell me about an {Item}
